@@ -17,10 +17,10 @@ int top(const vector<int>& v, int l, int r)
 	}
 }
 
-//int main()
-//{
-//	vector<int> v{ 10,20,30,50,40,23,10 };
-//	int result = top(v, 1, v.size());
-//	std::cout << result;
-//}
+int main()
+{
+	vector<int> v{ 10,20,30,50,40,23,10 };
+	int result = top(v, 1, v.size());
+	std::cout << result;
+}
 
