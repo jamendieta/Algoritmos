@@ -13,31 +13,43 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Maps">
+      <UniqueIdentifier>{88c5e6c0-a4e9-469f-af48-95efed7a9b19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Stacks">
+      <UniqueIdentifier>{602bac06-7e44-4b1f-a286-b46c655a3125}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sort">
+      <UniqueIdentifier>{e590a932-1a56-4e5b-9cff-6aa7fea024d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Find">
+      <UniqueIdentifier>{24cfb274-4e42-44f4-9f70-9e77c69ed7c1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="StackParentesis.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="AddElementToMaps.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Maps</Filter>
     </ClCompile>
     <ClCompile Include="ForeachMaps.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Maps</Filter>
     </ClCompile>
     <ClCompile Include="Map.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Maps</Filter>
     </ClCompile>
     <ClCompile Include="Maps.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Maps</Filter>
     </ClCompile>
     <ClCompile Include="PalindromeStack.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Stacks</Filter>
+    </ClCompile>
+    <ClCompile Include="StackParentesis.cpp">
+      <Filter>Source Files\Stacks</Filter>
     </ClCompile>
     <ClCompile Include="QuickSort.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Sort</Filter>
     </ClCompile>
     <ClCompile Include="Top.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Find</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
