@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SelectionSort.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,16 +129,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="AddElementToMaps.cpp" />
-    <ClCompile Include="ForeachMaps.cpp" />
-    <ClCompile Include="Map.cpp" />
-    <ClCompile Include="Maps.cpp" />
-    <ClCompile Include="PalindromeStack.cpp" />
-    <ClCompile Include="QuickSort.cpp" />
-    <ClCompile Include="StackParentesis.cpp" />
-    <ClCompile Include="Top.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

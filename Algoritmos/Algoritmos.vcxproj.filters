@@ -27,29 +27,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AddElementToMaps.cpp">
-      <Filter>Source Files\Maps</Filter>
-    </ClCompile>
-    <ClCompile Include="ForeachMaps.cpp">
-      <Filter>Source Files\Maps</Filter>
-    </ClCompile>
-    <ClCompile Include="Map.cpp">
-      <Filter>Source Files\Maps</Filter>
-    </ClCompile>
-    <ClCompile Include="Maps.cpp">
-      <Filter>Source Files\Maps</Filter>
-    </ClCompile>
-    <ClCompile Include="PalindromeStack.cpp">
-      <Filter>Source Files\Stacks</Filter>
-    </ClCompile>
-    <ClCompile Include="StackParentesis.cpp">
-      <Filter>Source Files\Stacks</Filter>
-    </ClCompile>
-    <ClCompile Include="QuickSort.cpp">
+    <ClCompile Include="SelectionSort.cpp">
       <Filter>Source Files\Sort</Filter>
-    </ClCompile>
-    <ClCompile Include="Top.cpp">
-      <Filter>Source Files\Find</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
