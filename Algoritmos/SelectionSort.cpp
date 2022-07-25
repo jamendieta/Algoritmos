@@ -16,6 +16,7 @@ void selection_sort(vector<int>& v) {
 	for (int i = 0; i < last; i++)
 	{
 		int k = posicion_minima(v, i, last);
+		cout << "posicion minima: " << k << endl;
 		swap(v[k], v[i]);
 	}
 }
