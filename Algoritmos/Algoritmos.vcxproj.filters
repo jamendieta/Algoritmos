@@ -27,7 +27,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SelectionSort.cpp">
+    <ClCompile Include="InsertionSort.cpp">
       <Filter>Source Files\Sort</Filter>
     </ClCompile>
   </ItemGroup>
